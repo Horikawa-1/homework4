@@ -1,2 +1,2 @@
-# homework4![スクリーンショット (9)](https://user-images.githubusercontent.com/111167638/187031905-ff2147a3-e6a4-4cf1-8ad2-01695eab122f.png)
-![スクリーンショット (8)](https://user-images.githubusercontent.com/111167638/187031909-f952bb41-7d5b-4fc7-9d56-5fb1bb3dd0d7.png)
+# homework4![スクリーンショット (10)](https://user-images.githubusercontent.com/111167638/188383663-f9608cdf-b797-4f9f-aa5b-ff716b570349.png)
+![スクリーンショット (11)](https://user-images.githubusercontent.com/111167638/188383675-9ededaf7-e5e4-4792-b7cd-7cd8db752b37.png)
